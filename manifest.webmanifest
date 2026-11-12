@@ -1,0 +1,9 @@
+{
+  "name": "Wynncraft Professions Hub",
+  "short_name": "Wynn Professions",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b2e",
+  "theme_color": "#101b2e"
+}
